@@ -1,101 +1,45 @@
-# *output of use cases below →
 
-ATM withdrawal System
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/venv/bin/python
-/Users/dhanashreesalunke/Documents/HeroV
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-widrawal
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
+# $\Large{\textcolor{#87CEEB}{\textbf{ $ATM_widrawal_System }}}
+<img width="732" height="52" alt="image" src="https://github.com/user-attachments/assets/b783e35a-fc20-44ee-a3ec-c040d6c2a8d6" />
 
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
+-------
+
+<img width="734" height="51" alt="image" src="https://github.com/user-attachments/assets/f403eca2-acdf-4394-bd5a-0254fb6dc472" />
+
+---------
+<img width="706" height="47" alt="image" src="https://github.com/user-attachments/assets/dcceeb6e-13f1-45cd-bafd-5e0fa2756461" />
+
+---------
+<img width="717" height="66" alt="image" src="https://github.com/user-attachments/assets/b2f8528c-2727-4d87-aa52-6eb9e882fbd1" />
+
+---------
+
 --------
-y
-Enter withdrawal amount: 400
-Error: Withdrawal amount must be multiple of 500
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-widrawal
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
-_
 
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
-y
-System.p
-System.p
-Enter withdrawal amount: 2000
-Withdrawal successful. Amount: 2000
-Remaining balance: 3000
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-widrawal
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
-_
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
-y
-System.p
-Enter withdrawal amount: 5000
-Withdrawal successful. Amount: 5000
-Remaining balance: 0
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-Restaurant Bill Calculator
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Restauren
-t
-bill
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
-_
-calculator.py
-Enter meal cost: 1250
-Meal Cost: 1250.0
-Service Charge (10%): 125.0
-Amount after Service: 1375.0
-Tax (5%): 68.75
-Tip (5%): 68.75
-Total Bill: 1512.5
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-Login Authentication :
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Login
+# $\Large{\textcolor{#87CEEB}{\textbf{ Login_Authentication_System }}}$
 
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
-hentication
-_
-System.py
-Aut
-Enter username: dhan
-Error: Username must be at least 5 characters
-Return: False
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Login
-_
-hentication
-_
-System.py
-Aut
-Enter username: dhana
-Enter password: dhana
-Error: Password must be at least 8 characters
-Return: False
+---------
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ff723cda-200a-4fe2-8262-6c366debc7d9" />
 
-<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
-env/bin/python
-/Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Login
-_
-hentication
-_
-System.py
-Aut
-Enter username: dhana
-Enter password: password123
-Login successful
-Return: True
-dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
+--------
+---------
+<img width="500" height="84" alt="image" src="https://github.com/user-attachments/assets/f39f94e6-87ed-4418-b2e4-7e2592bd1c2f" />
+
+
+--------
+<img width="506" height="89" alt="image" src="https://github.com/user-attachments/assets/8ae05b00-329d-4364-9c61-05efb071d5d5" />
+
+---------
+<img width="435" height="83" alt="image" src="https://github.com/user-attachments/assets/d55f9265-1c2a-4848-a9df-c9d04461ee68" />
+
+--------
+---------
+
+--------
+# $\Large{\textcolor{#87CEEB}{\textbf{ Restaurent_bill_calculator }}}$
+
+---------
+<img width="463" height="134" alt="image" src="https://github.com/user-attachments/assets/d7b92c4a-88d8-42b7-9de0-13dc0b997311" />
+
+--------
+
