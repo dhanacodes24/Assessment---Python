@@ -1,4 +1,15 @@
 
+## 🐍 Python Programming Assignments
+
+This repository brings together a set of Python exercises developed and tested with attention to detail.  
+Each task demonstrates practical problem‑solving, validation logic, and clear documentation, reflecting the process of learning through implementation and testing.  
+The solutions are structured with reusable functions, meaningful comments, and outputs verified against sample cases.
+
+### 📘 Project Overview
+1️⃣ **ATM Withdrawal System** – validates withdrawal requests against rules like balance, multiples of 500, and positive amounts.  
+2️⃣ **Restaurant Bill Calculator** – computes service charge, tax, and tip to generate a detailed bill.  
+3️⃣ **Login Authentication System** – enforces username and password security checks before granting access.
+
 
 --------------------
 
@@ -168,7 +179,7 @@ Final output
 <details>
 <summary>📄 <b>Click to expand — Restaurant bill calculator  Code </b></summary>
 
-```json
+```python
 
 # Restaurant Bill Calculator
 
