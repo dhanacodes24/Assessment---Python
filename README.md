@@ -171,7 +171,7 @@ Final output
 ------------------
 
 
-# $\Large{\textcolor{#87CEEB}{\textbf{3. Restaurant bill calculator }}}$
+## $\Large{\textcolor{#87CEEB}{\textbf{3. Restaurant bill calculator }}}$
 
 
 ------------------
