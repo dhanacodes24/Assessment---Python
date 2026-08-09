@@ -9,7 +9,7 @@
 <details>
 <summary>📄 <b>Click to expand — ATM widrawal System Code </b></summary>
 
-```json
+```python
 
 # ATM Withdrawal System
 
@@ -85,7 +85,7 @@ Final output -
 <details>
 <summary>📄 <b>Click to expand — Login Authentication System Code </b></summary>
 
-```json
+```python
 
 # Improved Login Authentication System
 
