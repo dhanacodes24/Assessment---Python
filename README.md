@@ -1,5 +1,5 @@
 
-# $\Large{\textcolor{#87CEEB}{\textbf{ $ATM_widrawal_System }}}
+$\Large{\textcolor{#87CEEB}{\textbf{ $ATM_widrawal_System }}}
 <img width="732" height="52" alt="image" src="https://github.com/user-attachments/assets/b783e35a-fc20-44ee-a3ec-c040d6c2a8d6" />
 
 -------
