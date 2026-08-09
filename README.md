@@ -78,7 +78,7 @@ Final output -
 ------------------
 
 
-## $\Large{\textcolor{#87CEEB}{\textbf{ Login Authentication System }}}$
+## $\Large{\textcolor{#87CEEB}{\textbf{ 2.Login Authentication System }}}$
 
 ---------
 
@@ -135,7 +135,8 @@ else:
 Case 1 - Username length must be at least 5 characters
 -----------------
 ------------------
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ff723cda-200a-4fe2-8262-6c366debc7d9" />
+
+<img width="479" height="67" alt="image" src="https://github.com/user-attachments/assets/93f5e7e1-3523-4be1-bd9d-08980442dcb8" />
 
 ------------------
 ---------------
@@ -159,7 +160,7 @@ Final output
 ------------------
 
 
-# $\Large{\textcolor{#87CEEB}{\textbf{ Restaurant bill calculator }}}$
+# $\Large{\textcolor{#87CEEB}{\textbf{3. Restaurant bill calculator }}}$
 
 
 ------------------
