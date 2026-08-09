@@ -8,8 +8,9 @@ dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
 env/bin/python
 widrawal
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
-_
-_
+
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
+--------
 y
 Enter withdrawal amount: 400
 Error: Withdrawal amount must be multiple of 500
@@ -19,7 +20,8 @@ env/bin/python
 widrawal
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
 _
-_
+
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
 y
 System.p
 System.p
@@ -32,7 +34,7 @@ env/bin/python
 widrawal
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/ATM
 _
-_
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
 y
 System.p
 Enter withdrawal amount: 5000
@@ -46,7 +48,7 @@ env/bin/python
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Restauren
 t
 bill
-_
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
 _
 calculator.py
 Enter meal cost: 1250
@@ -59,7 +61,8 @@ Total Bill: 1512.5
 dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
 Login Authentication :
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/Login
-_
+
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
 hentication
 _
 System.py
@@ -80,6 +83,8 @@ Enter username: dhana
 Enter password: dhana
 Error: Password must be at least 8 characters
 Return: False
+
+<h2 style="color:skyblue;">STEP 1: Create the S3 Bucket and Upload Test Files</h2>
 dhanashreesalunke@Dhanashrees-MacBook-Air Assessmets %
 /Users/dhanashreesalunke/Documents/HeroVired/Python/Assessmets/v
 env/bin/python
